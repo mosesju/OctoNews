@@ -3,3 +3,4 @@ seeder/
 octonews.todo
 test.js
 .env
+node_modules/
